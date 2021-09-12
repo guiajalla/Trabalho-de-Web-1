@@ -1,0 +1,30 @@
+O trabalho consiste em implementar uma loja virtual (só a aparência, a loja não vai "funcionar") utilizando as linguagens vistas na disciplina. O que será cobrado:
+
+HTML: documentos válidos e acessíveis, imagens, tabelas
+CSS: documentos válidos, layout responsivo (inclusive para mobile), deve usar o mínimo de classes e ids
+Página inicial com menu de categorias de produtos e listagem inicial de produtos em destaque
+Tela específica para detalhar apenas 1 produto clicado (faça pelo menos 2 produtos)
+Tela do carrinho de compras (com pelo menos 2 produtos fictícios para teste)
+Além de ser enviado aqui, o site deve ser hospedado e o link deve ser informado via comentário no envio ou arquivo txt
+Outros sites que não sejam lojas virtuais, porém com complexidade similar, são aceitáveis, mas consulte o professor com antecedência.
+
+Itens que serão avaliados:
+
+HTML válido com imagens, listas, tabelas e multimídia X
+Arquivo CSS externo (.css) X
+Seletores Avançados X
+Bordas x
+Hover X
+Background Image e/ou Color X
+Indentação e formatação de Texto
+Position (relative e absolute) x
+Responsividade (inclusive para celular) *** item de maior peso! ***
+Flex e/ou Grid X
+
+Itens de menor importância ou opcionais (mas sempre podem valer um bônus!):
+Menu CSS x
+Gradientes
+Google Fonts (ou Custom Fonts em geral) X
+Transforms
+Transitions
+Animações
